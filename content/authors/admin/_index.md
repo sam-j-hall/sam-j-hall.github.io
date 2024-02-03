@@ -6,8 +6,8 @@ title: Dr. Sam Hall
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Samuel
+last_name: Hall
 
 # Status emoji
 status:
@@ -29,22 +29,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - X-ray Photoelectron Spectroscopy
+  - X-ray Absorption Spectroscopy
+  - Machine Learning
+  - Graph Neural Networks
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Molecular Analytical Science
+      institution: University of Warwick
+      year: 2022
+    - course: MSc in Molecular Analytical Science
+      institution: University of Warwick
+      year: 2018
+    - course: MChem in Chemistry
+      institution: University of Leicester
+      year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
