@@ -54,6 +54,8 @@ tags:
 - Organic electronics
 - Photoelectron spectroscopy
 - Topologic design
+
+# Display this page in the Featured widget?
 featured: false
 
 # links:
@@ -65,13 +67,13 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202100222'
+url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -87,9 +89,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
-
-links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202100222
+slides: ""
 ---
