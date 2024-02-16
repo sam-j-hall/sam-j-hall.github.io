@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Sam Hall
+title: Samuel J. Hall
 
 # Name pronunciation (optional)
 name_pronunciation: 

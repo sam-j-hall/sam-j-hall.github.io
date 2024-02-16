@@ -2,16 +2,27 @@
 title: Self-Interaction Error Induces Spurious Charge Transfer Artefacts in Core-Level
   Simulations of X-ray Photoemission and Absorption Spectroscopy of Metal-Organic
   Interfaces
+
 authors:
-- Samuel J. Hall
+- admin
 - Benedikt P. Klein
 - Reinhard J. Maurer
+
 date: '2021-12-01'
-publishDate: '2024-02-05T18:35:52.735544Z'
-publication_types:
-- manuscript
-publication: '*arXiv*'
 doi: 10.48550/arXiv.2112.00876
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-02-05T18:35:52.735544Z'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article"]
+
+# Publication name and optional abbreviated publication name.
+publication: "*arXiv*"
+publication_short: ""
+
 abstract: First principles simulation of x-ray photoemission spectroscopy (XPS) is
   an important tool in the challenging interpretation and assignment of XPS data of
   metal-organic interfaces. We investigate the origin of the disagreement between
@@ -29,10 +40,44 @@ abstract: First principles simulation of x-ray photoemission spectroscopy (XPS) 
   absorption spectra show a better agreement with experimental data, once the ad hoc
   correction is employed. Similar core-hole-induced charge artefacts may affect core-level
   simulations at metal-organic interfaces more generally.
+
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 tags:
-- read
 - Condensed Matter - Materials Science
-links:
-- name: URL
-  url: http://arxiv.org/abs/2112.00876
+featured: false
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'http://arxiv.org/abs/2112.00876'
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
 ---
