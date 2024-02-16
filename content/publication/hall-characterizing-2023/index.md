@@ -86,8 +86,4 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-
-links:
-- name: URL
-  url: https://doi.org/10.1021/acs.jpcc.2c06996
 ---
