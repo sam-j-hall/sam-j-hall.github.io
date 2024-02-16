@@ -239,7 +239,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: samuel.hall@helmholtz-berlin.de
       phone: +49 30 8062 43070
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       address:
         street: Hahn-Meitner-Platz 1
         city: Berlin
