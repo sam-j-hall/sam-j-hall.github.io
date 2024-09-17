@@ -65,8 +65,8 @@ sections:
         - title: Postdoctoral Researcher
           company: Helmholtz-Zentrum Berlin 
           company_url: 'https://www.helmholtz-berlin.de/forschung/oe/qm/theory-electron-dynamics/index_en.html'
-          company_logo: org-gc
-          location: Berlin
+          company_logo: HZB
+          location: Berlin, Germany
           date_start: '2023-03-15'
           date_end: ''
           description: |2-
@@ -79,7 +79,7 @@ sections:
           company: University of Warwick
           company_url: 'https://warwick.ac.uk/fac/sci/chemistry/research/maurer/maurergroup/'
           company_logo: org-x
-          location: Coventry
+          location: Coventry, United Kingdom
           date_start: '2022-03-07'
           date_end: '2023-01-31'
           description: Taught electronic engineering and researched semiconductor physics.
