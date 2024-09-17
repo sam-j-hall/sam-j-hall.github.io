@@ -118,7 +118,7 @@ social:
 highlight_name: true
 ---
 
-I am Dr. Samuel Hall, a postdoctoral researcher at Helmholtz-Zentrum Berlin. My current work is focused on developing machine learning models for x-ray spectroscopy.
+I am Dr. Sam Hall, a postdoctoral researcher at Helmholtz-Zentrum Berlin. My current work is focused on developing machine learning models for x-ray spectroscopy.
 
 My background and interests are in computational spectroscopic simulations, mainly x-ray photoelectron spectroscopy, (XPS) and x-ray absorption spectroscopy (XAS). I specialise in using density functional theory (DFT) in order to calculate core-level spectroscopy of metal-organic interfaces. These types of spectra can often consist of overlapping features and significant broadening, making interpretation difficult. Through the use of first-principle simulations, I have been able to decompose spectra in terms of both atomic contributions and molecular orbital contributions. I have also looked into characterising how the interaction between the molecule and the metal surface changes spectra and highlighting how the different levels of interaction change spectra.
 {style="text-align: justify;"}
