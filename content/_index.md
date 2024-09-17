@@ -78,7 +78,7 @@ sections:
         - title: Postdoctoral Researcher
           company: University of Warwick
           company_url: 'https://warwick.ac.uk/fac/sci/chemistry/research/maurer/maurergroup/'
-          company_logo: org-x
+          company_logo: warwick
           location: Coventry, United Kingdom
           date_start: '2022-03-07'
           date_end: '2023-01-31'
