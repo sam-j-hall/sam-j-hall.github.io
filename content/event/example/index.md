@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: X-ray Absorption Spectra Prediction of Extended Graphene Oxide Nanoflakes using Graph Neural Networks
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Recent Advances in Computer-aided X-ray Spectroscopy
+event_url: https://ocamm.fi/event/recent-advances-in-computer-aided-x-ray-spectroscopy/
 
-location: Hugo Blox Builder HQ
+location: Aalto University, School of Chemical Egineering
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Kemistintie 1
+  city: AEspoo
+  region: Uusima
+  postcode: '02150'
+  country: Finland
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Graphene oxide (GO) materials such as nanoflakes, while promising for various applications, it can be difficult to fully understand and predict its properties due to the highly irregular molecular structure arising from several oxygen functionalisations across the surface. X-ray absorption spectroscopy (XAS) experiments and simulations can help provide valuable insight by characterizing the electronic structure of materials. However, there are problems with complex spectra being hard to interpret and the prohibitive computational simulation cost for large extended systems. Machine learning (ML) can open the door for quick and effective XAS predictions to analyse spectra. [1, 2] With this a ML model based on graph neural networks has been created to effectively predict individual atomic XAS from a database of time-dependent density functional theory (TDDFT) XAS of small GO-derivative molecules. With this model we are able to identify various spectral fingerprints of local functional groups/structural environments which allows us to gain insight into the molecular structure of large GO nanoflakes.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-06-18T11:40:00Z'
+date_end: '2024-06-18T12:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
