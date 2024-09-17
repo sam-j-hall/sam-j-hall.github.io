@@ -242,9 +242,9 @@ sections:
       # appointment_url: 'https://calendly.com'
       address:
         street: Hahn-Meitner-Platz 1
-        city: Berlin
-        region: Berlin
         postcode: '14109'
+        city: Berlin
+        # region: Berlin
         country: Germany
         country_code: DE
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
