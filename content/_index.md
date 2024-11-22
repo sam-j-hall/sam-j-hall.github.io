@@ -48,6 +48,24 @@ sections:
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
+      skills:
+        - name: Technical
+          items:
+          - name: Python
+            description: ''
+            percent: 80
+            icon: python
+            icon_pack: fab
+          - name: Pytorch
+            description: ''
+            percent: 75
+            icon: python
+            icon_pack: fab
+          - name: Pytorch Geometric
+            description: ''
+            percent: 75
+            icon: python
+            icon_pack: fab
     design:
       columns: '1'
   - block: experience
