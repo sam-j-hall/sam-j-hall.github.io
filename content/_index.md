@@ -46,19 +46,19 @@ sections:
     content:
       title: Skills
       # text: ''
-        skills:
-          - name: Technical
-            items:
-            - name: Python
-              description: ''
-              percent: 80
-              icon: python
-              icon_pack: fab
-            - name: Fortran
-              description: ''
-              percent: 70
-              icon: Fortran
-              icon_pack: custom
+      items:
+        - name: Technical
+          items:
+          - name: Python
+            description: ''
+            percent: 80
+            icon: python
+            icon_pack: fab
+          - name: Fortran
+            description: ''
+            percent: 70
+            icon: Fortran
+            icon_pack: custom
       # Choose a user to display from (a folder name within `content/autors/`)
       username: admin
     design:
