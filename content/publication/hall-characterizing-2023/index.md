@@ -41,7 +41,7 @@ abstract: X-ray photoemission and X-ray absorption spectroscopy are important te
   complex metal–organic interfaces.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
 - Adsorption

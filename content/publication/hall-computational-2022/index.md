@@ -35,7 +35,7 @@ abstract: Molecules adsorbed onto metal surfaces, especially carbon-based aromat
   findings on structure, stability, and surface chemical bonding.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
 - Molecule-metal interaction

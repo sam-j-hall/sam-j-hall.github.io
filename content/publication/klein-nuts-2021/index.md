@@ -42,7 +42,7 @@ abstract: X-ray photoemission (XPS) and near edge x-ray absorption fine structur
   discuss sensible default choices, limitations of the methods, and future prospects.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
 - Density functional theory

@@ -54,7 +54,7 @@ abstract: Defects play a critical role for the functionality and performance of 
   engineering can be used for performance control.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
 - Aromatic compounds

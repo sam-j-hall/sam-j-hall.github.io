@@ -55,7 +55,7 @@ abstract: The performance of graphene-based (opto)electronic devices depends cri
   its bonding to a transition metal and thus can be utilized to tailor interface properties.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
 - Adsorption

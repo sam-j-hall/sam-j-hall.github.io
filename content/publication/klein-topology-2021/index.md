@@ -46,7 +46,7 @@ abstract: Pyrene derivatives play a prominent role in organic electronic devices
   of aromaticity is used to interpret the major topology-related differences.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
 - Density functional calculations

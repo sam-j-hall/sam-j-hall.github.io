@@ -42,7 +42,7 @@ abstract: First principles simulation of x-ray photoemission spectroscopy (XPS) 
   simulations at metal-organic interfaces more generally.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
 - Condensed Matter - Materials Science

@@ -58,7 +58,7 @@ abstract: Interfaces between polycyclic π-electron systems and metals play prom
   stronger hybridization with electronic states of the metal surfaces.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
 - Adsorption

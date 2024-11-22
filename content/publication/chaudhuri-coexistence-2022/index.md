@@ -47,7 +47,7 @@ abstract: Diamond-based materials have unique properties that are exploited in m
   diamond crystal surface reported to date.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
 - Surfaces, interfacea and thin films
