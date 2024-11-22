@@ -69,12 +69,7 @@ sections:
           location: Berlin, Germany
           date_start: '2023-03-15'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: Machine learning development of models for the prediction of X-ray adsorption spectroscopy (XAS), with a focus on using graph neural networks for XAS prediction of graphene oxide nanoflakes.
         - title: Postdoctoral Researcher
           company: University of Warwick
           company_url: 'https://warwick.ac.uk/fac/sci/chemistry/research/maurer/maurergroup/'
@@ -82,7 +77,7 @@ sections:
           location: Coventry, United Kingdom
           date_start: '2022-03-07'
           date_end: '2023-01-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Software development of the all-electron electronic structure code FHI-aims. Improvement of the core-hole calculation code used for such applications as simulating X-ray photoelectron and X-ray adsorption spectroscopy. The code was brought up-to-date, improving the scaling and efficiency whilst also restructuring and simplifying the code for future development.  
     design:
       columns: '2'
   - block: accomplishments
