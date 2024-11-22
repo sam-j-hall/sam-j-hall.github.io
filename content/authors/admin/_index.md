@@ -55,37 +55,37 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: python
-        icon_pack: fab
+        icon: Python
+        icon_pack: custom
       - name: Fortran
         description: ''
         percent: 70
         icon: Fortran
         icon_pack: custom
-  #     - name: SQL
-  #       description: ''
-  #       percent: 40
-  #       icon: database
-  #       icon_pack: fas
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking
-  #       description: ''
-  #       percent: 60
-  #       icon: person-hiking
-  #       icon_pack: fas
-  #     - name: Cats
-  #       description: ''
-  #       percent: 100
-  #       icon: cat
-  #       icon_pack: fas
-  #     - name: Photography
-  #       description: ''
-  #       percent: 80
-  #       icon: camera-retro
-  #       icon_pack: fas
+      - name: Github
+        description: ''
+        percent: 70
+        icon: Github
+        icon_pack: custom
+  - name: Machine Learning
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Pytorch
+        description: ''
+        percent: 60
+        icon: Pytorch
+        icon_pack: custom
+      - name: Pytorch Geometric
+        description: ''
+        percent: 80
+        icon: PyG
+        icon_pack: custom
+      - name: NetworkX
+        description: ''
+        percent: 80
+        icon: NetworkX
+        icon_pack: custom
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
