@@ -45,7 +45,7 @@ sections:
   - block: skills
     content:
       title: Skills
-      # text: ''
+      text: 'Testing'
       skills:
         - name: Technical
           items:
