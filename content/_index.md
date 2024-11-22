@@ -48,34 +48,8 @@ sections:
       text: ''
       # Choose a user to display from (a folder name within `content/authors/`)
       username: admin
-      # skills:
-      #   - name: Technical
-      #     items:
-      #     - name: Python
-      #       description: ''
-      #       percent: 80
-      #       icon: python
-      #       icon_pack: fab
-      #     - name: Fortran
-      #       description: ''
-      #       percent: 70
-      #       icon: Fortran
-      #       icon_pack: custom
     design:
       columns: '1'
-    skills:
-      - name: Technical
-        items:
-        - name: Python
-          description: ''
-          percent: 80
-          icon: python
-          icon_pack: fab
-        - name: Fortran
-          description: ''
-          percent: 70
-          icon: Fortran
-          icon_pack: custom
   - block: experience
     content:
       title: Experience
