@@ -62,9 +62,9 @@ skills:
         percent: 70
         icon: Fortran
         icon_pack: custom
-      - name: Github
+      - name: GitHub
         description: ''
-        percent: 70
+        percent: 75
         icon: Github
         icon_pack: custom
   - name: Machine Learning
@@ -73,8 +73,8 @@ skills:
     items:
       - name: Pytorch
         description: ''
-        percent: 60
-        icon: Pytorch
+        percent: 75
+        icon: PyTorch
         icon_pack: custom
       - name: Pytorch Geometric
         description: ''
