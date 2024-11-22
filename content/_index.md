@@ -45,7 +45,7 @@ sections:
   - block: skills
     content:
       title: Skills
-      text: ''
+      # text: ''
       skills:
         - name: Technical
           items:
@@ -57,8 +57,8 @@ sections:
           - name: Fortran
             description: ''
             percent: 70
-            icon: code
-            icon_pack: fab
+            icon: Fortran
+            icon_pack: custom
       # Choose a user to display from (a folder name within `content/autors/`)
       username: admin
     design:
