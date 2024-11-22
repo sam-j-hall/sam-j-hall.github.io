@@ -60,7 +60,7 @@ skills:
       - name: Fortran
         description: ''
         percent: 70
-        icon: fortran
+        icon: Fortran
         icon_pack: custom
   #     - name: SQL
   #       description: ''
