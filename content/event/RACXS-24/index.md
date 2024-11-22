@@ -12,7 +12,7 @@ address:
   postcode: '02150'
   country: Finland
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: ''
 abstract: 'Graphene oxide (GO) materials such as nanoflakes, while promising for various applications, it can be difficult to fully understand and predict its properties due to the highly irregular molecular structure arising from several oxygen functionalisations across the surface. X-ray absorption spectroscopy (XAS) experiments and simulations can help provide valuable insight by characterizing the electronic structure of materials. However, there are problems with complex spectra being hard to interpret and the prohibitive computational simulation cost for large extended systems. Machine learning (ML) can open the door for quick and effective XAS predictions to analyse spectra. [1, 2] With this a ML model based on graph neural networks has been created to effectively predict individual atomic XAS from a database of time-dependent density functional theory (TDDFT) XAS of small GO-derivative molecules. With this model we are able to identify various spectral fingerprints of local functional groups/structural environments which allows us to gain insight into the molecular structure of large GO nanoflakes. [1] K. Singh et al, J. Chem. Theory Comput., 18, 4408-4417 (2022) [2] A. Kotobi et al, J. Am. Chem. Soc., 145, 22584-22598 (2023)'
 
 # Talk start and end times.
