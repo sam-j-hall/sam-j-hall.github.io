@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: Ocean
-  theme_night: Mr Robot
-  font: classic
+  theme_night: Earth
+  font: rose
   font_size: L
 
 # SEO
