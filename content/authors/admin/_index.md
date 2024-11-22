@@ -62,10 +62,10 @@ skills:
         percent: 70
         icon: Fortran
         icon_pack: custom
-      - name: GitHub
+      - name: Github
         description: ''
         percent: 75
-        icon: Github
+        icon: GitHub
         icon_pack: custom
   - name: Machine Learning
     color: '#eeac02'
@@ -73,7 +73,7 @@ skills:
     items:
       - name: Pytorch
         description: ''
-        percent: 75
+        percent: 75]
         icon: PyTorch
         icon_pack: custom
       - name: Pytorch Geometric
